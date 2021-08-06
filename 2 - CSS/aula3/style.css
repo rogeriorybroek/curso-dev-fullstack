@@ -1,0 +1,17 @@
+body {
+    background-image: url(background.jpg);
+    background-repeat: no-repeat;
+    /* background-position: 100% 10%; */
+    background-position: center center;
+    background-size: cover;
+    background-attachment: fixed;
+}
+p {
+    font-size: larger;
+    background-color: antiquewhite;
+    color: rgb(255, 0, 0);
+}
+ul {
+    font-size: larger;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}

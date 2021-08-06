@@ -1,0 +1,28 @@
+body {
+    background: #dfdfdf;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(34, 34, 34);
+}
+
+p {
+    border: 1px dotted #FFFFFF;
+}
+
+.foto-principal {
+    border: 1px solid #FFFFFF;
+    border-radius: 50%;
+    width: 200px;
+    margin: 30px;
+    box-shadow: 0px 0px 10px #616161f5;
+}
+h1 {
+    margin-bottom: 0;
+    letter-spacing: -1px;
+}
+h2 {
+    margin-top: 0;
+    font-style: italic;
+    color: rgb(73, 73, 73);
+    font-weight: lighter;
+    letter-spacing: -1px;
+}

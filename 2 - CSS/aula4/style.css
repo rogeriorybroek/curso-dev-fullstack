@@ -1,0 +1,29 @@
+body {
+    background: #dfdfdf;
+}
+p {
+    color: rgb(34, 34, 34);
+    border: 1px dotted #FFFFFF;
+    
+}
+.foto-principal {
+    border: 2px solid #141111;
+    border-radius: 50% 10% 50% 100%;
+    width: 200px;
+    ;
+}
+h1 {
+    color: #d82828;
+}
+ul {
+    color: #2b0863;
+    font-size: larger;
+    border-radius: 10%;
+    border: 5px dashed #000000;
+
+}
+#oss {
+    color: #7a3c63;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: x-large;
+}
