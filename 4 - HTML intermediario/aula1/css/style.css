@@ -1,0 +1,65 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: sans-serif;
+}
+
+.header {
+    background-image: url(https://services.meteored.com/img/article/esto-es-lo-que-te-puede-pasar-si-te-alcanza-un-rayo-tormenta-lichtenberg-310111-1_768.jpg);
+    background-size: cover;
+    color: white;
+    text-align: center;
+    padding: 100px 0;
+    font-size: 40px;
+    box-shadow: 0 0 10px black;
+    margin-bottom: 10px;
+    display: block;
+    width: auto;
+}
+
+.header span {
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 80px;
+}
+
+
+.container {
+    display: flex;
+}
+
+.navbar {
+    width: 30%;
+    background: #a3a3a3;
+    padding: 30px;
+    text-align: center;
+    height: auto;
+    
+}
+
+.navbar li {
+    list-style: none;
+    margin-top: 10px;
+}
+
+.navbar li a {
+    text-decoration: none;
+    background-color: rgb(63, 131, 105);
+    display: block; 
+}
+
+.content {
+    width: 70%;
+    background: #c0c0c0;
+    padding: 30px;
+}
+
+.footer {
+    background-color: grey;
+    text-align: center;
+    padding: 20px 0;
+}
