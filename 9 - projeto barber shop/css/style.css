@@ -25,7 +25,7 @@ body {
 **********/
 
 .home {
-    background-image: url(/images/bg-home.jpg);
+    background-image: url(../images/bg-home.jpg);
     background-size: cover;
     background-attachment: fixed;
     height: 100vh;
@@ -121,7 +121,7 @@ body {
     position: relative;
     top: -50px;
     width: 33%;
-    background-image: url(/images/brush-big.jpg);
+    background-image: url(../images/brush-big.jpg);
     padding: 20px;
 }
 
@@ -248,7 +248,7 @@ body {
 
 .appointment {
     background-color: var(--color-primary);
-    background-image: url(/images/chair-ic.png);
+    background-image: url(../images/chair-ic.png);
     background-repeat: no-repeat;
     background-position: right bottom;
     background-size: 300px;
@@ -366,7 +366,7 @@ body {
 
 .location {
     padding: 100px 0;
-    background: url(/images/bg-location.jpg);
+    background: url(../images/bg-location.jpg);
     background-size: cover;
 }
 
