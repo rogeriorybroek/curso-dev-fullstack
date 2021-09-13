@@ -1,0 +1,14 @@
+@import "variaveis.css";
+@import "comuns.css";
+
+img {
+    filter: grayscale(100%)
+}
+
+p {
+    filter: blur(1px);
+}
+
+button {
+    filter:brightness(50%)
+}

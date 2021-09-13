@@ -1,0 +1,29 @@
+
+:root {
+    --color-primary: rgb(138, 231, 76);
+    --color-secondary: rgb(219, 146, 36);
+    --spacing: 16px;
+}
+
+
+h1 {
+    color: var(--color-primary);
+}
+
+h2 {
+    color: var(--color-secondary);
+}
+
+h3 {
+    color: var(--color-primary);
+}
+
+p {
+    color: var(--color-primary);
+}
+
+button {
+    color: white;
+    background-color: var(--color-secondary);
+    padding: var(--spacing);
+}
